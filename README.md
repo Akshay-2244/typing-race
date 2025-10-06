@@ -52,7 +52,7 @@ Built with **React.js** and **Tailwind CSS**, the project emphasizes **responsiv
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/typing-race.git
+   git clone https://github.com/Akshay-2244/typing-race.git
    cd typing-race
 
 2. **Install dependencies**
