@@ -64,7 +64,7 @@ Built with **React.js** and **Tailwind CSS**, the project emphasizes **responsiv
 3. **Run the development server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Open [http://localhost:3000](http://localhost:3000) in your browser.
